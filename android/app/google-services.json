@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "886999184690",
+    "firebase_url": "https://time-tracker-training.firebaseio.com",
+    "project_id": "time-tracker-training",
+    "storage_bucket": "time-tracker-training.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886999184690:android:fd6ab479b5ee735d62532b",
+        "android_client_info": {
+          "package_name": "com.ppgsoft.udemytraining"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886999184690-rrbrj3p42ebqbggbu1tqp5480cukfl8l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ppgsoft.udemytraining",
+            "certificate_hash": "96a08ef30835743a4edf56b614e46993b4726d26"
+          }
+        },
+        {
+          "client_id": "886999184690-ssgj8ouuoo218olj5u9cmalbt2ignf0v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXeRa-cM-O9tEqeMHkIiJtUCl90U3GipE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886999184690-ssgj8ouuoo218olj5u9cmalbt2ignf0v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
